@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é Eric Rodrigues!
+## 👨‍💻 Olá, meu nome é Eric Rodrigues! 👋
 
 Atualmente sou desenvolvedor de chatbot na empresa Blink Telecom.
 
